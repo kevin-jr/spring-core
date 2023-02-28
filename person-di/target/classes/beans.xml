@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd">
+
+
+    <!--    <bean id="address" class="com.demo.beans.Address">-->
+    <!--        <property name="streetName" value="Dream Land"/>-->
+
+    <!--    </bean>-->
+
+    <!--    <bean id="person" class="com.demo.beans.Person" autowire="byName">-->
+    <!--        autowire = byName,byType,constructor-->
+    <!--        <property name="name" value="Htet Arakr"/>-->
+    <!--        <property name="address" ref="address"/>-->
+    <!--        <constructor-arg name ="address" ref="address"/>-->
+
+    <!--    </bean>-->
+
+
+
+<!--    <context:component-scan base-package="com.demo.beans"/>-->
+<!--    <context:annotation-config />-->
+</beans>
