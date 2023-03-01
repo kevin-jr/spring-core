@@ -12,6 +12,10 @@
         <module>sample-di</module>
         <module>person-di</module>
         <module>bean-scope</module>
+        <module>alternate-behaviour</module>
+        <module>property-source</module>
+        <module>two-proxy</module>
+        <module>profile-demo</module>
     </modules>
 
     <properties>
